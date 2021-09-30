@@ -1,0 +1,7 @@
+C:\Users\HI\source\repos\Manhlole_Assignment\Manhlole_Assignment\obj\Debug\Manhlole_Assignment.csprojAssemblyReference.cache
+C:\Users\HI\source\repos\Manhlole_Assignment\Manhlole_Assignment\obj\Debug\Manhlole_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HI\source\repos\Manhlole_Assignment\Manhlole_Assignment\bin\Debug\Manhlole_Assignment.exe.config
+C:\Users\HI\source\repos\Manhlole_Assignment\Manhlole_Assignment\bin\Debug\Manhlole_Assignment.exe
+C:\Users\HI\source\repos\Manhlole_Assignment\Manhlole_Assignment\bin\Debug\Manhlole_Assignment.pdb
+C:\Users\HI\source\repos\Manhlole_Assignment\Manhlole_Assignment\obj\Debug\Manhlole_Assignment.exe
+C:\Users\HI\source\repos\Manhlole_Assignment\Manhlole_Assignment\obj\Debug\Manhlole_Assignment.pdb
